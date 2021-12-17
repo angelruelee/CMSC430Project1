@@ -1,0 +1,41 @@
+// Testing comments with slashes instead of dashes
+
+//more punct symbol
+
+=>
+
+// strings with underscores. has 7 lexical errors
+
+test_1
+t_est2
+test__3
+test___4
+_test5
+test6_
+
+// more Relational operators
+
+= /= > >= <=
+
+
+// more Arithmetic operator
+
+* - /
+
+// remop and expop
+
+rem **
+
+// real literal token test
+
+3.54 3.0e1 2.0e+12 3.5E45
+
+// boolean literal token
+
+true false
+
+// more Reserved words
+
+begin else end endif endreduce function if is integer reduce returns then
+
+case endcase others real when
